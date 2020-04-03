@@ -1,4 +1,4 @@
-
+require Pry
 
 def hello(array)
   i = 0
